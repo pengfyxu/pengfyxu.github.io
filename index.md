@@ -11,7 +11,4 @@
 
 ## 常见问题
 ### JAVA 
-```html
-<a href="https://blog.csdn.net/qq_34631677/article/details/80118937">SpringBoot项目启动报错：找不到MappingJackson2HttpMessageConverter</a>
-
-```
+[SpringBoot项目启动报错：找不到MappingJackson2HttpMessageConverter](https://blog.csdn.net/qq_34631677/article/details/80118937)
