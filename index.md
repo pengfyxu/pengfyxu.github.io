@@ -3,6 +3,8 @@
 ## 简介
   614，一个IT技术的代码。
   
-## 目录
-### [JAVA](https://baike.baidu.com/item/Java%20%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/10263609?fr=aladdin)
-### [IOS](https://baike.baidu.com/item/iOS/45705?fr=aladdin)
+## 技术分享
+### JAVA
+
+## 常见问题
+### [SpringBoot项目启动报错：找不到MappingJackson2HttpMessageConverter](https://blog.csdn.net/qq_34631677/article/details/80118937)
