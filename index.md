@@ -5,10 +5,10 @@
   
 ## 技术分享
 ### JAVA
-1. 分布式
-2. 其他
+ 1. 分布式
+ 2. 其他
 ### 其他
 
 ## 常见问题
 ### JAVA 
-1. [SpringBoot项目启动报错：找不到MappingJackson2HttpMessageConverter](https://blog.csdn.net/qq_34631677/article/details/80118937)
+ 1. [SpringBoot项目启动报错：找不到MappingJackson2HttpMessageConverter](https://blog.csdn.net/qq_34631677/article/details/80118937)
